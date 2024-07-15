@@ -1,6 +1,7 @@
 # Agora-License
 The Agora License is designed to be extremely open-source, even more permissive than MIT and Apache. We'll call it the **Agora Ultra Open License (AUOL)**. This license is intended to provide maximum freedom for use, modification, and distribution, with minimal restrictions.
 
+-----
 
 ## Agora Ultra Open License (AUOL)
 
@@ -40,5 +41,7 @@ The Agora License is designed to be extremely open-source, even more permissive 
 
 #### 8. Accepting Warranty or Additional Liability
    While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+-------
+
 
 This **Agora Ultra Open License (AUOL)** is designed to provide the maximum level of freedom for users, with minimal restrictions. It allows for unlimited use, modification, and distribution of the original work and derivative works, ensuring that the software remains as open and accessible as possible.
